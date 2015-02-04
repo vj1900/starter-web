@@ -1,5 +1,5 @@
 #Starter Web Project
-aDDING A LINE FOR REBASING EX.
+ADDING A LINE FOR REBASING EX, more changes from myfeature branch.
 This is a simple website presentation
 ##Introduction
 Adding introduction text
