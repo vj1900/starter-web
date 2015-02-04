@@ -10,4 +10,5 @@ This is the contribution section
 ##Deployment
 This is the deployment section
 This is additional info
-
+##Copyright
+All rights reserved.
